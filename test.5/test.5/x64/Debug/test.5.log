@@ -1,0 +1,2 @@
+﻿源.obj : error LNK2005: main 已经在 fengle.obj 中定义
+C:\fengle\test.5\x64\Debug\test.5.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
