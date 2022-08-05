@@ -1,0 +1,3 @@
+﻿  test.c
+C:\fengle\test.5.2.5\test.5.2.5\test.c(7,2): warning C4550: 表达式计算为缺少参数列表的函数
+  test.5.2.5.vcxproj -> C:\fengle\test.5.2.5\x64\Debug\test.5.2.5.exe
