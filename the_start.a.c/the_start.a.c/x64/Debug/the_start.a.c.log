@@ -1,0 +1,3 @@
+﻿  the_start.a.cpp
+C:\fengle\the_start.a.c\the_start.a.c\the_start.a.cpp(84,28): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  the_start.a.c.vcxproj -> C:\fengle\the_start.a.c\x64\Debug\the_start.a.c.exe
